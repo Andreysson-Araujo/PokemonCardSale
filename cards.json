@@ -1,0 +1,83 @@
+[
+    {
+        "nome": "Kilowattrel",
+        "imagem": "imagens/Kilowattrel.jpg",
+        "Quantidade":"1",
+        "valor": "R$0,10 / Disponivel para trocaa"
+    },
+    {
+        "nome": "Timburr",
+        "imagem": "imagens/Timburr.jpg",
+        "Quantidade":"2",
+        "valor": "R$0,08 / Disponivel para troca"
+    },
+    {
+        "nome": "Diancie",
+        "imagem": "imagens/Diancie.jpg",
+        "Quantidade":"1",
+        "valor": "R$0,10 / Disponivel para troca"
+    },
+    {
+        "nome": "Lampent",
+        "imagem": "imagens/Lampent.jpg",
+        "Quantidade":"1",
+        "valor": "R$0,12 / Disponivel para troca"
+    },
+    {
+        "nome": "Pacote Férreo",
+        "imagem": "imagens/PacoteFerreo.jpg",
+        "Quantidade":"1",
+        "valor": "R$0,10 / Disponivel para troca"
+    },
+    {
+        "nome": "Tauros de Paldea",
+        "imagem": "imagens/Tauros_Paldea.jpg",
+        "Quantidade":"2",
+        "valor": "R$0,15 / Disponivel para troca"
+    },
+    {
+        "nome": "Trompete de Vidro",
+        "imagem": "imagens/Trompete_de_Vidro.jpg",
+        "Quantidade":"1",
+        "valor": "R$0,20 / Disponivel para troca"
+    },
+    {
+        "nome": "Veluza",
+        "imagem": "imagens/Veluza.jpg",
+        "Quantidade":"1",
+        "valor": "R$0,10 / Disponivel para troca"
+    },
+    {
+        "nome": "Medicham EX",
+        "imagem": "imagens/Medichamex.jpg",
+        "Quantidade":"1",
+        "valor": "R$2,00 / Disponivel para troca"
+    },
+    {
+        "nome": "Yamask",
+        "imagem": "imagens/Yamask.jpg",
+        "Quantidade":"1",
+        "valor": "R$0,10 / Disponivel para troca"
+    },
+    {
+        "nome": "Klang",
+        "imagem": "imagens/Klang.jpg",
+        "Quantidade":"1",
+        "valor": "R$0,10 / Disponivel para troca"
+    },
+    {
+        "nome": "Klinklang",
+        "imagem": "imagens/Klinklang.jpg",
+        "Quantidade":"1",
+        "valor": "R$0,10 / Disponivel para troca"
+    },
+    {
+        "nome": "Moira",
+        "imagem": "imagens/Moira.jpg",
+        "Quantidade":"1",
+        "valor": "R$0,10 / Disponivel para troca"
+    }
+    
+    
+    
+]
